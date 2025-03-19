@@ -13,7 +13,7 @@ AI DermoScope is an advanced healthcare web application designed to detect skin 
 
 ## Technologies Used
 - **Frontend:** React.js, Tailwind CSS
-- **Backend:** Node.js, Express.js, MongoDB
+- **Backend:** Node.js, Express.js, MongoDB, multer(for images)
 - **AI Model:** Python, Flask, TensorFlow, Keras, MobileNet
 - **Dataset:** DermNet, Additional Image Datasets
 - **Deployment:** Docker, AWS/GCP (Planned)
